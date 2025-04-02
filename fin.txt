@@ -1,0 +1,7 @@
+docker pull dokcercontstorage/my_cassandra_image:latest
+
+
+
+
+
+https://github.com/swcarpentry/files/blob/master/inflammation-01.csv
